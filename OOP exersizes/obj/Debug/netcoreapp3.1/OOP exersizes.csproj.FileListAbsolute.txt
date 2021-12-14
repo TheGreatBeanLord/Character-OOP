@@ -1,0 +1,13 @@
+C:\Users\arcan\source\repos\OOP exersizes\bin\Debug\netcoreapp3.1\OOP exersizes.exe
+C:\Users\arcan\source\repos\OOP exersizes\bin\Debug\netcoreapp3.1\OOP exersizes.deps.json
+C:\Users\arcan\source\repos\OOP exersizes\bin\Debug\netcoreapp3.1\OOP exersizes.runtimeconfig.json
+C:\Users\arcan\source\repos\OOP exersizes\bin\Debug\netcoreapp3.1\OOP exersizes.runtimeconfig.dev.json
+C:\Users\arcan\source\repos\OOP exersizes\bin\Debug\netcoreapp3.1\OOP exersizes.dll
+C:\Users\arcan\source\repos\OOP exersizes\bin\Debug\netcoreapp3.1\OOP exersizes.pdb
+C:\Users\arcan\source\repos\OOP exersizes\obj\Debug\netcoreapp3.1\OOP exersizes.csprojAssemblyReference.cache
+C:\Users\arcan\source\repos\OOP exersizes\obj\Debug\netcoreapp3.1\OOP exersizes.AssemblyInfoInputs.cache
+C:\Users\arcan\source\repos\OOP exersizes\obj\Debug\netcoreapp3.1\OOP exersizes.AssemblyInfo.cs
+C:\Users\arcan\source\repos\OOP exersizes\obj\Debug\netcoreapp3.1\OOP exersizes.csproj.CoreCompileInputs.cache
+C:\Users\arcan\source\repos\OOP exersizes\obj\Debug\netcoreapp3.1\OOP exersizes.dll
+C:\Users\arcan\source\repos\OOP exersizes\obj\Debug\netcoreapp3.1\OOP exersizes.pdb
+C:\Users\arcan\source\repos\OOP exersizes\obj\Debug\netcoreapp3.1\OOP exersizes.genruntimeconfig.cache
